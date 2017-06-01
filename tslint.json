@@ -5,7 +5,7 @@
   "rules": {
     "callable-types": true,
     "class-name": true,
-    "comment-format": [
+    "comment-format": [   
       true,
       "check-space"
     ],
